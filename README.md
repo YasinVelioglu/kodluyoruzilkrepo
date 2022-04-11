@@ -5,4 +5,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet READM
 
 [GitHub Profilim](https://github.com/YasinVelioglu)
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kodluyoruz&psig=AOvVaw0LhS44cfWqCMidxinpr1z5&ust=1649806651039000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCMjMqcCYjfcCFQAAAAAdAAAAABAD)
+![](https://www.sivilsayfalar.org/wp-content/uploads/2017/08/12140740_592101067664371_7619142561799890911_n.png)
